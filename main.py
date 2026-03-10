@@ -2,7 +2,7 @@ import flet as ft
 from datetime import datetime
 
 def main(page: ft.Page):
-    page.title = 'Мое первое приложение'
+    page.title = 'Мое первое приложение!'
     page.theme_mode = ft.ThemeMode.DARK
     page.window_width = 450 
 
